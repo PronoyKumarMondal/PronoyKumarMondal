@@ -66,20 +66,3 @@ I'm a passionate **AI enthusiast** specializing in **Machine Learning**, **Deep 
 
 ---
 
-## 🎓 Education
-- **B.Sc. in Computer Science and Engineering**  
-   *Daffodil International University (CGPA: 3.57/4.0)*  
-
----
-
-## 🏆 Honors & Certifications
-- **7th Place:** DIU Take Off Programming Contest.  
-- **Contest Organizer:** Crack Dataset (CD-2024).  
-
----
-
-## 🤝 Volunteering
-- **Organizer:** Crack Dataset (CD-2024), DIU NLP & ML Research Lab.  
-- **Class Representative:** Daffodil International University (2021–2023).  
-
----

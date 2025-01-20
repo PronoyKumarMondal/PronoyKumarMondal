@@ -70,9 +70,6 @@ I'm a passionate **AI enthusiast** specializing in **Machine Learning**, **Deep 
 - **B.Sc. in Computer Science and Engineering**  
    *Daffodil International University (CGPA: 3.57/4.0)*  
 
-- **HSC:** *Cantonment Public School & College (GPA: 4.42/5.0)*  
-- **SSC:** *Kalaroa G.K.M.K. Pilot Model High School (GPA: 4.28/5.0)*  
-
 ---
 
 ## 🏆 Honors & Certifications
